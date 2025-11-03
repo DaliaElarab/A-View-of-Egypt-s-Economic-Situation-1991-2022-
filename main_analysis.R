@@ -1,6 +1,6 @@
 #---------------------------------------------------------------------------
 # Author: Dalia Elaraby
-# Project: Historical Macroeconomic Analysis of Egypt (1991–2022) 
+# Project: Historical Macroeconomic Analysis of Egypt (1991–2022)
 # Data Source: World Bank (https://data.worldbank.org/)
 # Date: 2024
 # Purpose: Data cleaning, analysis, and visualization in R
