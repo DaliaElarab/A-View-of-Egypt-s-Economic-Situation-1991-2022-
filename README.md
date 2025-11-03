@@ -1,5 +1,5 @@
 # A View of Egypt's Economic Situation (1991-2022)
-Historical macroeconomic analysis of Egypt (1991–2022): Analysis and visualization in R
+Historical macroeconomic analysis of Egypt (1991–2022): Analysis and visualization in R.
 
 In this project, I explored Egypt's macroeconomic data from 1991 to 2022 to gain insights into various economic indicators such as unemployment rate, inflation trends, population growth, and their potential relationships.
 
