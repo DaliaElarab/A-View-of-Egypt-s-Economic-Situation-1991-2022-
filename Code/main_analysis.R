@@ -3,8 +3,8 @@
 # Project: Historical Macroeconomic Analysis of Egypt (1991–2022)
 # Data Source: World Bank (https://data.worldbank.org/)
 # Date: 2024
-# Purpose: Data cleaning, analysis, and visualization in R
-# Description: The analysis of Egypt's macroeconomic data aims to uncover insights into and relationships among various economic indicators, such as the unemployment rate, inflation trends, and population growth, and their impact on the economy.
+# Purpose: Data cleaning and preparation, descriptive and econometric analysis, and data visualization using R.
+# Description: This script analyzes Egypt’s macroeconomic data to explore relationships among key economic indicators—such as unemployment, inflation, and population growth—using descriptive statistics, regression analysis, and graphical visualization.
 #---------------------------------------------------------------------------
 
 # Load libraries
